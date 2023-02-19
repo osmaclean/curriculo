@@ -12,7 +12,7 @@
 
 ## Parte 1 - Estrutura
 
-### Estrutura criada via HTML5.
+### Realizada via HTML5.
 
 <hr>
 
